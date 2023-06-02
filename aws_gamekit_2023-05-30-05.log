@@ -1,0 +1,168 @@
+[DEBUG] 2023-05-30 04:19:07.535 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 04:19:07.535 Aws::Config::AWSConfigFileProfileConfigLoader [864] Initializing config loader against fileName C:\Users\User\.aws\credentials and using profilePrefix = 0
+[DEBUG] 2023-05-30 04:19:07.535 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 04:19:07.535 Aws::Config::AWSConfigFileProfileConfigLoader [864] Initializing config loader against fileName C:\Users\User\.aws\config and using profilePrefix = 1
+[DEBUG] 2023-05-30 04:19:07.535 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 04:19:07.535 Aws::Config::AWSConfigFileProfileConfigLoader [864] Unable to open config file C:\Users\User\.aws\credentials for reading.
+[INFO] 2023-05-30 04:19:07.535 Aws::Config::AWSProfileConfigLoader [864] Failed to reload configuration.
+[DEBUG] 2023-05-30 04:19:07.535 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 04:19:07.535 Aws::Config::AWSConfigFileProfileConfigLoader [864] Unable to open config file C:\Users\User\.aws\config for reading.
+[INFO] 2023-05-30 04:19:07.535 Aws::Config::AWSProfileConfigLoader [864] Failed to reload configuration.
+[INFO] 2023-05-30 04:19:07.535 EC2MetadataClient [864] Using IMDS endpoint: http://169.254.169.254
+[DEBUG] 2023-05-30 04:19:07.535 ClientConfiguration [864] ClientConfiguration will use SDK Auto Resolved profile: [default] if not specified by users.
+[WARN] 2023-05-30 04:19:07.536 ClientConfiguration [864] Retry Strategy will use the default max attempts.
+[INFO] 2023-05-30 04:19:07.536 EC2MetadataClient [864] Creating AWSHttpResourceClient with max connections 2 and scheme http
+[INFO] 2023-05-30 04:19:07.536 WinHttpSyncHttpClient [864] Creating http client with user agent  with max connections 2 request timeout 1000,and connect timeout 1000
+[DEBUG] 2023-05-30 04:19:07.537 WinHttpHttp2 [864] HTTP/2 enabled on WinHttp handle: 0000020E5CD68760.
+[DEBUG] 2023-05-30 04:19:07.537 WinHttpSyncHttpClient [864] API handle 0000020E5CD68760
+[INFO] 2023-05-30 04:19:07.537 ConnectionPoolMgr [864] Creating connection pool mgr with handle 0000020E5CD68760, and max connections per host 2, request timeout 1000 ms, and connect timeout in 1000 ms, enabling TCP keep-alive.
+[DEBUG] 2023-05-30 04:23:20.922 ClientConfiguration [864] ClientConfiguration will use SDK Auto Resolved profile: [default] if not specified by users.
+[WARN] 2023-05-30 04:23:20.922 ClientConfiguration [864] Retry Strategy will use the default max attempts.
+[INFO] 2023-05-30 04:23:20.922 WinHttpSyncHttpClient [864] Creating http client with user agent  with max connections 25 request timeout 3000,and connect timeout 3000
+[DEBUG] 2023-05-30 04:23:20.922 WinHttpHttp2 [864] HTTP/2 enabled on WinHttp handle: 0000020E5CD69B80.
+[DEBUG] 2023-05-30 04:23:20.922 WinHttpSyncHttpClient [864] API handle 0000020E5CD69B80
+[INFO] 2023-05-30 04:23:20.922 ConnectionPoolMgr [864] Creating connection pool mgr with handle 0000020E5CD69B80, and max connections per host 25, request timeout 3000 ms, and connect timeout in 3000 ms, enabling TCP keep-alive.
+[DEBUG] 2023-05-30 05:08:27.876 WinSyncHttpClient [13232] Cleaning up client with handle 0000000000000000
+[INFO] 2023-05-30 05:08:27.880 WinHttpConnectionPoolMgr [13232] Cleaning up connection pool mgr.
+[DEBUG] 2023-05-30 05:08:27.888 WinSyncHttpClient [13232] Cleaning up client with handle 0000000000000000
+[INFO] 2023-05-30 05:08:27.888 WinHttpConnectionPoolMgr [13232] Cleaning up connection pool mgr.
+[DEBUG] 2023-05-30 05:08:32.617 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:08:32.619 Aws::Config::AWSConfigFileProfileConfigLoader [864] Initializing config loader against fileName C:\Users\User\.aws\credentials and using profilePrefix = 0
+[DEBUG] 2023-05-30 05:08:32.620 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:08:32.620 Aws::Config::AWSConfigFileProfileConfigLoader [864] Initializing config loader against fileName C:\Users\User\.aws\config and using profilePrefix = 1
+[DEBUG] 2023-05-30 05:08:32.620 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:08:32.620 Aws::Config::AWSConfigFileProfileConfigLoader [864] Unable to open config file C:\Users\User\.aws\credentials for reading.
+[INFO] 2023-05-30 05:08:32.620 Aws::Config::AWSProfileConfigLoader [864] Failed to reload configuration.
+[DEBUG] 2023-05-30 05:08:32.621 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:08:32.621 Aws::Config::AWSConfigFileProfileConfigLoader [864] Unable to open config file C:\Users\User\.aws\config for reading.
+[INFO] 2023-05-30 05:08:32.621 Aws::Config::AWSProfileConfigLoader [864] Failed to reload configuration.
+[INFO] 2023-05-30 05:08:32.626 EC2MetadataClient [864] Using IMDS endpoint: http://169.254.169.254
+[DEBUG] 2023-05-30 05:08:32.626 ClientConfiguration [864] ClientConfiguration will use SDK Auto Resolved profile: [default] if not specified by users.
+[WARN] 2023-05-30 05:08:32.627 ClientConfiguration [864] Retry Strategy will use the default max attempts.
+[INFO] 2023-05-30 05:08:32.627 EC2MetadataClient [864] Creating AWSHttpResourceClient with max connections 2 and scheme http
+[INFO] 2023-05-30 05:08:32.628 WinHttpSyncHttpClient [864] Creating http client with user agent  with max connections 2 request timeout 1000,and connect timeout 1000
+[DEBUG] 2023-05-30 05:08:32.629 WinHttpHttp2 [864] HTTP/2 enabled on WinHttp handle: 0000020E5CD6A420.
+[DEBUG] 2023-05-30 05:08:32.629 WinHttpSyncHttpClient [864] API handle 0000020E5CD6A420
+[INFO] 2023-05-30 05:08:32.629 ConnectionPoolMgr [864] Creating connection pool mgr with handle 0000020E5CD6A420, and max connections per host 2, request timeout 1000 ms, and connect timeout in 1000 ms, enabling TCP keep-alive.
+[DEBUG] 2023-05-30 05:12:27.525 WinSyncHttpClient [13232] Cleaning up client with handle 0000000000000000
+[INFO] 2023-05-30 05:12:27.525 WinHttpConnectionPoolMgr [13232] Cleaning up connection pool mgr.
+[DEBUG] 2023-05-30 05:12:33.140 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:12:33.140 Aws::Config::AWSConfigFileProfileConfigLoader [864] Initializing config loader against fileName C:\Users\User\.aws\credentials and using profilePrefix = 0
+[DEBUG] 2023-05-30 05:12:33.140 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:12:33.140 Aws::Config::AWSConfigFileProfileConfigLoader [864] Initializing config loader against fileName C:\Users\User\.aws\config and using profilePrefix = 1
+[DEBUG] 2023-05-30 05:12:33.140 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:12:33.140 Aws::Config::AWSConfigFileProfileConfigLoader [864] Unable to open config file C:\Users\User\.aws\credentials for reading.
+[INFO] 2023-05-30 05:12:33.140 Aws::Config::AWSProfileConfigLoader [864] Failed to reload configuration.
+[DEBUG] 2023-05-30 05:12:33.141 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:12:33.141 Aws::Config::AWSConfigFileProfileConfigLoader [864] Unable to open config file C:\Users\User\.aws\config for reading.
+[INFO] 2023-05-30 05:12:33.141 Aws::Config::AWSProfileConfigLoader [864] Failed to reload configuration.
+[INFO] 2023-05-30 05:12:33.141 EC2MetadataClient [864] Using IMDS endpoint: http://169.254.169.254
+[DEBUG] 2023-05-30 05:12:33.141 ClientConfiguration [864] ClientConfiguration will use SDK Auto Resolved profile: [default] if not specified by users.
+[WARN] 2023-05-30 05:12:33.141 ClientConfiguration [864] Retry Strategy will use the default max attempts.
+[INFO] 2023-05-30 05:12:33.141 EC2MetadataClient [864] Creating AWSHttpResourceClient with max connections 2 and scheme http
+[INFO] 2023-05-30 05:12:33.141 WinHttpSyncHttpClient [864] Creating http client with user agent  with max connections 2 request timeout 1000,and connect timeout 1000
+[DEBUG] 2023-05-30 05:12:33.143 WinHttpHttp2 [864] HTTP/2 enabled on WinHttp handle: 0000020E5CD67EC0.
+[DEBUG] 2023-05-30 05:12:33.143 WinHttpSyncHttpClient [864] API handle 0000020E5CD67EC0
+[INFO] 2023-05-30 05:12:33.143 ConnectionPoolMgr [864] Creating connection pool mgr with handle 0000020E5CD67EC0, and max connections per host 2, request timeout 1000 ms, and connect timeout in 1000 ms, enabling TCP keep-alive.
+[DEBUG] 2023-05-30 05:12:43.009 WinSyncHttpClient [13232] Cleaning up client with handle 0000000000000000
+[INFO] 2023-05-30 05:12:43.009 WinHttpConnectionPoolMgr [13232] Cleaning up connection pool mgr.
+[DEBUG] 2023-05-30 05:12:46.450 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:12:46.450 Aws::Config::AWSConfigFileProfileConfigLoader [864] Initializing config loader against fileName C:\Users\User\.aws\credentials and using profilePrefix = 0
+[DEBUG] 2023-05-30 05:12:46.450 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:12:46.451 Aws::Config::AWSConfigFileProfileConfigLoader [864] Initializing config loader against fileName C:\Users\User\.aws\config and using profilePrefix = 1
+[DEBUG] 2023-05-30 05:12:46.451 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:12:46.451 Aws::Config::AWSConfigFileProfileConfigLoader [864] Unable to open config file C:\Users\User\.aws\credentials for reading.
+[INFO] 2023-05-30 05:12:46.451 Aws::Config::AWSProfileConfigLoader [864] Failed to reload configuration.
+[DEBUG] 2023-05-30 05:12:46.451 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:12:46.451 Aws::Config::AWSConfigFileProfileConfigLoader [864] Unable to open config file C:\Users\User\.aws\config for reading.
+[INFO] 2023-05-30 05:12:46.451 Aws::Config::AWSProfileConfigLoader [864] Failed to reload configuration.
+[INFO] 2023-05-30 05:12:46.451 EC2MetadataClient [864] Using IMDS endpoint: http://169.254.169.254
+[DEBUG] 2023-05-30 05:12:46.451 ClientConfiguration [864] ClientConfiguration will use SDK Auto Resolved profile: [default] if not specified by users.
+[WARN] 2023-05-30 05:12:46.451 ClientConfiguration [864] Retry Strategy will use the default max attempts.
+[INFO] 2023-05-30 05:12:46.451 EC2MetadataClient [864] Creating AWSHttpResourceClient with max connections 2 and scheme http
+[INFO] 2023-05-30 05:12:46.451 WinHttpSyncHttpClient [864] Creating http client with user agent  with max connections 2 request timeout 1000,and connect timeout 1000
+[DEBUG] 2023-05-30 05:12:46.452 WinHttpHttp2 [864] HTTP/2 enabled on WinHttp handle: 0000020E5CD67340.
+[DEBUG] 2023-05-30 05:12:46.452 WinHttpSyncHttpClient [864] API handle 0000020E5CD67340
+[INFO] 2023-05-30 05:12:46.453 ConnectionPoolMgr [864] Creating connection pool mgr with handle 0000020E5CD67340, and max connections per host 2, request timeout 1000 ms, and connect timeout in 1000 ms, enabling TCP keep-alive.
+[DEBUG] 2023-05-30 05:13:42.955 WinSyncHttpClient [13232] Cleaning up client with handle 0000000000000000
+[INFO] 2023-05-30 05:13:42.955 WinHttpConnectionPoolMgr [13232] Cleaning up connection pool mgr.
+[DEBUG] 2023-05-30 05:13:50.001 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:13:50.002 Aws::Config::AWSConfigFileProfileConfigLoader [864] Initializing config loader against fileName C:\Users\User\.aws\credentials and using profilePrefix = 0
+[DEBUG] 2023-05-30 05:13:50.002 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:13:50.002 Aws::Config::AWSConfigFileProfileConfigLoader [864] Initializing config loader against fileName C:\Users\User\.aws\config and using profilePrefix = 1
+[DEBUG] 2023-05-30 05:13:50.002 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:13:50.002 Aws::Config::AWSConfigFileProfileConfigLoader [864] Unable to open config file C:\Users\User\.aws\credentials for reading.
+[INFO] 2023-05-30 05:13:50.002 Aws::Config::AWSProfileConfigLoader [864] Failed to reload configuration.
+[DEBUG] 2023-05-30 05:13:50.002 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:13:50.002 Aws::Config::AWSConfigFileProfileConfigLoader [864] Unable to open config file C:\Users\User\.aws\config for reading.
+[INFO] 2023-05-30 05:13:50.002 Aws::Config::AWSProfileConfigLoader [864] Failed to reload configuration.
+[INFO] 2023-05-30 05:13:50.003 EC2MetadataClient [864] Using IMDS endpoint: http://169.254.169.254
+[DEBUG] 2023-05-30 05:13:50.003 ClientConfiguration [864] ClientConfiguration will use SDK Auto Resolved profile: [default] if not specified by users.
+[WARN] 2023-05-30 05:13:50.003 ClientConfiguration [864] Retry Strategy will use the default max attempts.
+[INFO] 2023-05-30 05:13:50.003 EC2MetadataClient [864] Creating AWSHttpResourceClient with max connections 2 and scheme http
+[INFO] 2023-05-30 05:13:50.003 WinHttpSyncHttpClient [864] Creating http client with user agent  with max connections 2 request timeout 1000,and connect timeout 1000
+[DEBUG] 2023-05-30 05:13:50.004 WinHttpHttp2 [864] HTTP/2 enabled on WinHttp handle: 0000020E5CD67EC0.
+[DEBUG] 2023-05-30 05:13:50.004 WinHttpSyncHttpClient [864] API handle 0000020E5CD67EC0
+[INFO] 2023-05-30 05:13:50.004 ConnectionPoolMgr [864] Creating connection pool mgr with handle 0000020E5CD67EC0, and max connections per host 2, request timeout 1000 ms, and connect timeout in 1000 ms, enabling TCP keep-alive.
+[DEBUG] 2023-05-30 05:13:56.645 WinSyncHttpClient [13232] Cleaning up client with handle 0000000000000000
+[INFO] 2023-05-30 05:13:56.645 WinHttpConnectionPoolMgr [13232] Cleaning up connection pool mgr.
+[DEBUG] 2023-05-30 05:13:59.397 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:13:59.397 Aws::Config::AWSConfigFileProfileConfigLoader [864] Initializing config loader against fileName C:\Users\User\.aws\credentials and using profilePrefix = 0
+[DEBUG] 2023-05-30 05:13:59.397 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:13:59.398 Aws::Config::AWSConfigFileProfileConfigLoader [864] Initializing config loader against fileName C:\Users\User\.aws\config and using profilePrefix = 1
+[DEBUG] 2023-05-30 05:13:59.398 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:13:59.398 Aws::Config::AWSConfigFileProfileConfigLoader [864] Unable to open config file C:\Users\User\.aws\credentials for reading.
+[INFO] 2023-05-30 05:13:59.398 Aws::Config::AWSProfileConfigLoader [864] Failed to reload configuration.
+[DEBUG] 2023-05-30 05:13:59.398 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:13:59.398 Aws::Config::AWSConfigFileProfileConfigLoader [864] Unable to open config file C:\Users\User\.aws\config for reading.
+[INFO] 2023-05-30 05:13:59.398 Aws::Config::AWSProfileConfigLoader [864] Failed to reload configuration.
+[INFO] 2023-05-30 05:13:59.399 EC2MetadataClient [864] Using IMDS endpoint: http://169.254.169.254
+[DEBUG] 2023-05-30 05:13:59.399 ClientConfiguration [864] ClientConfiguration will use SDK Auto Resolved profile: [default] if not specified by users.
+[WARN] 2023-05-30 05:13:59.399 ClientConfiguration [864] Retry Strategy will use the default max attempts.
+[INFO] 2023-05-30 05:13:59.399 EC2MetadataClient [864] Creating AWSHttpResourceClient with max connections 2 and scheme http
+[INFO] 2023-05-30 05:13:59.399 WinHttpSyncHttpClient [864] Creating http client with user agent  with max connections 2 request timeout 1000,and connect timeout 1000
+[DEBUG] 2023-05-30 05:13:59.400 WinHttpHttp2 [864] HTTP/2 enabled on WinHttp handle: 0000020E5CD6A9E0.
+[DEBUG] 2023-05-30 05:13:59.400 WinHttpSyncHttpClient [864] API handle 0000020E5CD6A9E0
+[INFO] 2023-05-30 05:13:59.400 ConnectionPoolMgr [864] Creating connection pool mgr with handle 0000020E5CD6A9E0, and max connections per host 2, request timeout 1000 ms, and connect timeout in 1000 ms, enabling TCP keep-alive.
+[DEBUG] 2023-05-30 05:17:02.677 WinSyncHttpClient [13232] Cleaning up client with handle 0000000000000000
+[INFO] 2023-05-30 05:17:02.678 WinHttpConnectionPoolMgr [13232] Cleaning up connection pool mgr.
+[DEBUG] 2023-05-30 05:17:06.625 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:17:06.625 Aws::Config::AWSConfigFileProfileConfigLoader [864] Initializing config loader against fileName C:\Users\User\.aws\credentials and using profilePrefix = 0
+[DEBUG] 2023-05-30 05:17:06.625 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:17:06.625 Aws::Config::AWSConfigFileProfileConfigLoader [864] Initializing config loader against fileName C:\Users\User\.aws\config and using profilePrefix = 1
+[DEBUG] 2023-05-30 05:17:06.625 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:17:06.625 Aws::Config::AWSConfigFileProfileConfigLoader [864] Unable to open config file C:\Users\User\.aws\credentials for reading.
+[INFO] 2023-05-30 05:17:06.625 Aws::Config::AWSProfileConfigLoader [864] Failed to reload configuration.
+[DEBUG] 2023-05-30 05:17:06.625 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:17:06.626 Aws::Config::AWSConfigFileProfileConfigLoader [864] Unable to open config file C:\Users\User\.aws\config for reading.
+[INFO] 2023-05-30 05:17:06.626 Aws::Config::AWSProfileConfigLoader [864] Failed to reload configuration.
+[INFO] 2023-05-30 05:17:06.626 EC2MetadataClient [864] Using IMDS endpoint: http://169.254.169.254
+[DEBUG] 2023-05-30 05:17:06.626 ClientConfiguration [864] ClientConfiguration will use SDK Auto Resolved profile: [default] if not specified by users.
+[WARN] 2023-05-30 05:17:06.626 ClientConfiguration [864] Retry Strategy will use the default max attempts.
+[INFO] 2023-05-30 05:17:06.626 EC2MetadataClient [864] Creating AWSHttpResourceClient with max connections 2 and scheme http
+[INFO] 2023-05-30 05:17:06.626 WinHttpSyncHttpClient [864] Creating http client with user agent  with max connections 2 request timeout 1000,and connect timeout 1000
+[DEBUG] 2023-05-30 05:17:06.628 WinHttpHttp2 [864] HTTP/2 enabled on WinHttp handle: 0000020E5CD6A420.
+[DEBUG] 2023-05-30 05:17:06.628 WinHttpSyncHttpClient [864] API handle 0000020E5CD6A420
+[INFO] 2023-05-30 05:17:06.628 ConnectionPoolMgr [864] Creating connection pool mgr with handle 0000020E5CD6A420, and max connections per host 2, request timeout 1000 ms, and connect timeout in 1000 ms, enabling TCP keep-alive.
+[DEBUG] 2023-05-30 05:34:40.501 WinSyncHttpClient [13232] Cleaning up client with handle 0000000000000000
+[INFO] 2023-05-30 05:34:40.501 WinHttpConnectionPoolMgr [13232] Cleaning up connection pool mgr.
+[DEBUG] 2023-05-30 05:34:45.119 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:34:45.119 Aws::Config::AWSConfigFileProfileConfigLoader [864] Initializing config loader against fileName C:\Users\User\.aws\credentials and using profilePrefix = 0
+[DEBUG] 2023-05-30 05:34:45.120 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:34:45.120 Aws::Config::AWSConfigFileProfileConfigLoader [864] Initializing config loader against fileName C:\Users\User\.aws\config and using profilePrefix = 1
+[DEBUG] 2023-05-30 05:34:45.120 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:34:45.120 Aws::Config::AWSConfigFileProfileConfigLoader [864] Unable to open config file C:\Users\User\.aws\credentials for reading.
+[INFO] 2023-05-30 05:34:45.120 Aws::Config::AWSProfileConfigLoader [864] Failed to reload configuration.
+[DEBUG] 2023-05-30 05:34:45.120 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 05:34:45.120 Aws::Config::AWSConfigFileProfileConfigLoader [864] Unable to open config file C:\Users\User\.aws\config for reading.
+[INFO] 2023-05-30 05:34:45.120 Aws::Config::AWSProfileConfigLoader [864] Failed to reload configuration.
+[INFO] 2023-05-30 05:34:45.121 EC2MetadataClient [864] Using IMDS endpoint: http://169.254.169.254
+[DEBUG] 2023-05-30 05:34:45.121 ClientConfiguration [864] ClientConfiguration will use SDK Auto Resolved profile: [default] if not specified by users.
+[WARN] 2023-05-30 05:34:45.121 ClientConfiguration [864] Retry Strategy will use the default max attempts.
+[INFO] 2023-05-30 05:34:45.121 EC2MetadataClient [864] Creating AWSHttpResourceClient with max connections 2 and scheme http
+[INFO] 2023-05-30 05:34:45.121 WinHttpSyncHttpClient [864] Creating http client with user agent  with max connections 2 request timeout 1000,and connect timeout 1000
+[DEBUG] 2023-05-30 05:34:45.122 WinHttpHttp2 [864] HTTP/2 enabled on WinHttp handle: 0000020E5CD69E60.
+[DEBUG] 2023-05-30 05:34:45.122 WinHttpSyncHttpClient [864] API handle 0000020E5CD69E60
+[INFO] 2023-05-30 05:34:45.122 ConnectionPoolMgr [864] Creating connection pool mgr with handle 0000020E5CD69E60, and max connections per host 2, request timeout 1000 ms, and connect timeout in 1000 ms, enabling TCP keep-alive.
+[DEBUG] 2023-05-30 05:36:56.831 WinSyncHttpClient [13232] Cleaning up client with handle 0000000000000000
+[INFO] 2023-05-30 05:36:56.831 WinHttpConnectionPoolMgr [13232] Cleaning up connection pool mgr.

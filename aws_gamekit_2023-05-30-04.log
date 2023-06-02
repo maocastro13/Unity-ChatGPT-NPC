@@ -1,0 +1,20 @@
+[DEBUG] 2023-05-30 04:18:57.824 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 04:18:57.824 Aws::Config::AWSConfigFileProfileConfigLoader [864] Initializing config loader against fileName C:\Users\User\.aws\credentials and using profilePrefix = 0
+[DEBUG] 2023-05-30 04:18:57.824 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 04:18:57.824 Aws::Config::AWSConfigFileProfileConfigLoader [864] Initializing config loader against fileName C:\Users\User\.aws\config and using profilePrefix = 1
+[DEBUG] 2023-05-30 04:18:57.824 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 04:18:57.824 Aws::Config::AWSConfigFileProfileConfigLoader [864] Unable to open config file C:\Users\User\.aws\credentials for reading.
+[INFO] 2023-05-30 04:18:57.824 Aws::Config::AWSProfileConfigLoader [864] Failed to reload configuration.
+[DEBUG] 2023-05-30 04:18:57.824 FileSystem [864] Environment value for variable USERPROFILE is C:\Users\User
+[INFO] 2023-05-30 04:18:57.824 Aws::Config::AWSConfigFileProfileConfigLoader [864] Unable to open config file C:\Users\User\.aws\config for reading.
+[INFO] 2023-05-30 04:18:57.824 Aws::Config::AWSProfileConfigLoader [864] Failed to reload configuration.
+[INFO] 2023-05-30 04:18:57.825 EC2MetadataClient [864] Using IMDS endpoint: http://169.254.169.254
+[DEBUG] 2023-05-30 04:18:57.825 ClientConfiguration [864] ClientConfiguration will use SDK Auto Resolved profile: [default] if not specified by users.
+[WARN] 2023-05-30 04:18:57.825 ClientConfiguration [864] Retry Strategy will use the default max attempts.
+[INFO] 2023-05-30 04:18:57.826 EC2MetadataClient [864] Creating AWSHttpResourceClient with max connections 2 and scheme http
+[INFO] 2023-05-30 04:18:57.826 WinHttpSyncHttpClient [864] Creating http client with user agent  with max connections 2 request timeout 1000,and connect timeout 1000
+[DEBUG] 2023-05-30 04:18:57.826 WinHttpHttp2 [864] HTTP/2 enabled on WinHttp handle: 0000020E5CD6A140.
+[DEBUG] 2023-05-30 04:18:57.827 WinHttpSyncHttpClient [864] API handle 0000020E5CD6A140
+[INFO] 2023-05-30 04:18:57.827 ConnectionPoolMgr [864] Creating connection pool mgr with handle 0000020E5CD6A140, and max connections per host 2, request timeout 1000 ms, and connect timeout in 1000 ms, enabling TCP keep-alive.
+[DEBUG] 2023-05-30 04:19:05.421 WinSyncHttpClient [13232] Cleaning up client with handle 0000000000000000
+[INFO] 2023-05-30 04:19:05.423 WinHttpConnectionPoolMgr [13232] Cleaning up connection pool mgr.
